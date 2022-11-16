@@ -1,2 +1,2 @@
-models/*
-data
+data/
+models/initial_model.pt
