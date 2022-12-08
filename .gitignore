@@ -1,2 +1,3 @@
 data/
 models/initial_model.pt
+tests.ipynb
